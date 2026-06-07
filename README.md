@@ -1,17 +1,14 @@
-# note_app
+# Flutter Note App
 
-A new Flutter project.
+A Note app build with flutter using hive local storge and provider state management
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Add note
+- Delete note
+- Update note
+- Read notes
+## Screenshots
+![Read notes screen](screenshots/read_notes.png)
+![Update & Delete note list](screenshots/update_delete_list.png)
+![Update note](screenshots/update_note.png)
+![Add note](screenshots/add_note.png)
